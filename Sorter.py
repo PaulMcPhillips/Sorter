@@ -1,5 +1,5 @@
 import sys
-from PyQt6.QtWidgets import *
+from PyQt6.QtWidgets import QWidget, QGridLayout, QComboBox, QLabel, QPushButton, QLineEdit, QFileDialog, QApplication
 import pathlib
 import os
 import shutil
