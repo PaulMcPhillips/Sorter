@@ -2,8 +2,8 @@ Sorter App to Automatically sort file types into a new folder
 
 The app is provided as a script.
 
-It can be turned into an executable with PyInstaller from the command line by navigating
-to the folder where the script is installed then running:
+It can be turned into an executable with PyInstaller, from the command line, by navigating
+to the folder where the script is saved then running:
 
 pyinstaller --onefile -n "Sorter" -w ./sorter.py
 
